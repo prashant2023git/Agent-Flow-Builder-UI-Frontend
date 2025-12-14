@@ -15,19 +15,20 @@ Agent Flow Builder is a frontend application that enables users to create, explo
 - View and manage all published agents
 - Search and filter agents easily
 
-### Prebuilt Agent Components
-- ConnectorHub
-- DocVision
-- SchemaForge
-- DataLineage
-- IndexSmith
-- RetrievePro
-- PlanRouter
-- ToolRunner
-- CliffReason
-- MemWeaver
-- CarerWall
-- ClosedTheLoop
+### Prebuilt Agent Components (UI)
+- ConnectorHub – UI for selecting and configuring integrations
+- DocVision – interface to upload and view document-based agents
+- SchemaForge – UI to define and visualize data schemas
+- DataLineage – visual representation of data flow between agents
+- IndexSmith – UI for managing indexes and search settings
+- RetrievePro – interface for configuring retrieval strategies
+- PlanRouter – UI to define agent execution order
+- ToolRunner – panel to select and run tools
+- CliffReason – UI to configure reasoning behavior
+- MemWeaver – interface for managing agent memory and context
+- CarerWall – UI controls for safety and guardrails
+- ClosedTheLoop – UI for monitoring outputs and feedback
+
 
 ### Configuration & Management
 - Manage environment variables
